@@ -1,0 +1,63 @@
+{
+  "socialMediaLinks": [
+    {
+      "name": "Facebook",
+      "href": "https://www.facebook.com",
+      "imgSrc": "/assets/icons/facebook.svg"
+    },
+    {
+      "name": "Twitter",
+      "href": "https://www.twitter.com",
+      "imgSrc": "/assets/icons/twitter.svg"
+    },
+    {
+      "name": "Instagram",
+      "href": "https://www.instagram.com",
+      "imgSrc": "/assets/icons/instagram.svg"
+    },
+    {
+      "name": "Twitch",
+      "href": "https://www.twitch.tv",
+      "imgSrc": "/assets/icons/twitch.svg"
+    },
+    {
+      "name": "YouTube",
+      "href": "https://www.youtube.com",
+      "imgSrc": "/assets/icons/youtube.svg"
+    }
+  ],
+  "quickLinks": [
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact-us"
+    },
+    {
+      "name": "Cookie Preferences",
+      "url": "/cookie-preferences"
+    },
+    {
+      "name": "Corporate Information",
+      "url": "/corporate-information"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact-us"
+    },
+    {
+      "name": "Cookie Preferences",
+      "url": "/cookie-preferences"
+    },
+    {
+      "name": "Corporate Information",
+      "url": "/corporate-information"
+    }
+  ]
+}

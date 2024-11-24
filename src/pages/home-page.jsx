@@ -1,5 +1,7 @@
 const HomePage = () => {
-  return <div>HomePage</div>;
+  return <div></div>;
 };
 
 export default HomePage;
+
+//className="h-[calc(100dvh)] sm:h-[100vh]">
